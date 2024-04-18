@@ -8,3 +8,4 @@ elif Days in["samedi","dimanche"]:
  print("c'est le week-end") 
 else:
  print("ceci n'est pas un jour de la semaine")
+ print("merci")
